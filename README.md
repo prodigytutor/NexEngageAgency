@@ -1,4 +1,19 @@
-#Plura -- website builder using nextJs 
+## This is a Plura- website builder
 
-use npm install or bun install to install dependencies
-use npm run dev to run or bun run dev to start local server
+## Getting Started
+
+First, run the development server:
+
+```bash
+# to install dependencies
+npm install
+# or
+bun install
+
+# to run development server run
+npm run dev
+# or
+bun run dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
